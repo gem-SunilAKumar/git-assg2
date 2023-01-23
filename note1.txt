@@ -1,2 +1,1 @@
-i am making changes to this file1 and this is a feature branch .
-added new features for our project
+i am making changes to this file1 and this is master branch
